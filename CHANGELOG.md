@@ -1,5 +1,23 @@
 # Changelog
 
+## [0.2.1](https://github.com/perfectra1n/gea/compare/v0.2.0...v0.2.1) (2026-10-29)
+
+
+### Features
+
+* **pr:** inline review threads, replies, resolution and line comments ([43571d7](https://github.com/perfectra1n/gea/commit/43571d78e5b8bb54df49bffe8541b1a0a690ba47))
+* **pr:** inline review threads, replies, resolution and line comments ([869cb7d](https://github.com/perfectra1n/gea/commit/869cb7d347518a6884d0b0ba3ee0b10c1a0886fc))
+
+
+### Bug Fixes
+
+* **deps:** clear this week's RustSec advisories ([7667a96](https://github.com/perfectra1n/gea/commit/7667a964c733c5b36d5e63c31f3945e80673d0cd))
+
+
+### Code Refactoring
+
+* **pr:** take the pull request as the positional on reply, resolve and unresolve ([b2e7c4e](https://github.com/perfectra1n/gea/commit/b2e7c4e2814b6125c068f6798b2816b9a17a8630))
+
 ## [0.2.0](https://github.com/perfectra1n/gea/compare/v0.1.2...v0.2.0) (2026-10-12)
 
 
