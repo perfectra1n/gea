@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.2.3](https://github.com/perfectra1n/gea/compare/v0.2.2...v0.2.3) (2026-11-27)
+
+
+### Documentation
+
+* gea has moved to the fjo repository ([afd7fb7](https://github.com/perfectra1n/gea/commit/afd7fb7cd3dd16be30b92b1e7f74b9ed035bd325))
+* gea has moved to the fjo repository ([6faa445](https://github.com/perfectra1n/gea/commit/6faa445ac2f85daa30c42b2d352d81f5f0537d38))
+
 ## [0.2.2](https://github.com/perfectra1n/gea/compare/v0.2.1...v0.2.2) (2026-11-10)
 
 
